@@ -1,23 +1,27 @@
 {
-  "name": "destiny-mapper",
+  "name": "datasync-mapper",
   "version": "0.0.1",
-  "description": "Map data between destiny readers and writers.",
+  "description": "Map data between datasync readers and writers.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doowb/destiny-mapper.git"
+    "url": "https://github.com/doowb/datasync-mapper.git"
   },
   "keywords": [
-    "destiny",
-    "mapper"
+    "data",
+    "datasync",
+    "sync",
+    "sync data",
+    "mapper",
+    "map data"
   ],
   "author": "Brian Woodward",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doowb/destiny-mapper/issues"
+    "url": "https://github.com/doowb/datasync-mapper/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
